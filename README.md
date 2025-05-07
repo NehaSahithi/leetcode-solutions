@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Greedy
