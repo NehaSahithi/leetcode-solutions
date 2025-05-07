@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0782-jewels-and-stones](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 ## Monotonic Stack
 |  |
 | ------- |
