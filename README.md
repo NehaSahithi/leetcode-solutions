@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
