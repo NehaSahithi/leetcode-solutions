@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0066-plus-one) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
