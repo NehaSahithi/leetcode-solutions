@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0792-binary-search) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0792-binary-search) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0890-lemonade-change](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0890-lemonade-change) |
 ## Bit Manipulation
 |  |
@@ -97,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
