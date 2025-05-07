@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0739-daily-temperatures](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0890-lemonade-change) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0782-jewels-and-stones](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 ## Monotonic Stack
 |  |
@@ -76,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Greedy
 |  |
