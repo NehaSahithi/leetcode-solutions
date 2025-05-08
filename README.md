@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [0941-sort-array-by-parity](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1603-running-sum-of-1d-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0941-sort-array-by-parity](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 ## Design
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
+| [0941-sort-array-by-parity](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting
