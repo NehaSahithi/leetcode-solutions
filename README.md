@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [1217-relative-sort-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1603-running-sum-of-1d-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0782-jewels-and-stones) |
+| [1217-relative-sort-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1217-relative-sort-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [1217-relative-sort-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
