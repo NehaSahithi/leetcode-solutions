@@ -1,9 +1,7 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-       
-       //priority queue -> max heap -> max value will be at the top
-       //remove the top most element
+
        priority_queue<pair<int,int>>pq;
        int n = nums.size();
        for(int i=0;i<k;++i){
