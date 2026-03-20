@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [1052-grumpy-bookstore-owner](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1603-running-sum-of-1d-array](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NehaSahithi/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1052-grumpy-bookstore-owner](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NehaSahithi/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
